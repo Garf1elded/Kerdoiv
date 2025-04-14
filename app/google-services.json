@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "417350740016",
+    "project_id": "kerdoiv-85d91",
+    "storage_bucket": "kerdoiv-85d91.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417350740016:android:d258e12be3a196cf8125f5",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbvtLZKQbOi_lUCOz9dvy-oQqV11hQmwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417350740016:android:6f2fce3909e6c0d88125f5",
+        "android_client_info": {
+          "package_name": "com.w52ptg.kerdoiv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbvtLZKQbOi_lUCOz9dvy-oQqV11hQmwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
